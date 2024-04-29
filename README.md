@@ -1,6 +1,6 @@
 # Microsoft365.com/setup 
 
-[![Microsoft365.com/setup](gett-starteed.png)](http://officecom-setup.s3-website-us-west-1.amazonaws.com/)
+[![Microsoft365.com/setup](gett-starteed.png)](https://microsoft365setup.webconnectus.com)
 
 Microsoft 365 Business Premium (formerly Microsoft 365 Business) is a comprehensive subscription service for businesses with less than 300 employees. It integrates your favorite Office productivity apps and services, and collaboration tools like Microsoft Teams, with advanced security and device management capabilities.
 
